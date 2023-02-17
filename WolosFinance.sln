@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WolosFinance", "WolosFinance\WolosFinance.csproj", "{D48C345E-7FDE-46D4-83C9-698F9C2B13FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WolosFinance.Web", "WolosFinance.Web\WolosFinance.Web.csproj", "{8C4546E8-184A-435A-82B5-1AB5B5917354}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{D48C345E-7FDE-46D4-83C9-698F9C2B13FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D48C345E-7FDE-46D4-83C9-698F9C2B13FF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D48C345E-7FDE-46D4-83C9-698F9C2B13FF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8C4546E8-184A-435A-82B5-1AB5B5917354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4546E8-184A-435A-82B5-1AB5B5917354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4546E8-184A-435A-82B5-1AB5B5917354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4546E8-184A-435A-82B5-1AB5B5917354}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
